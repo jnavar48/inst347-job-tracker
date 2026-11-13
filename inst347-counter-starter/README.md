@@ -49,7 +49,7 @@ You don't need this for class. GitHub Actions builds and deploys for you.
 ## Our team
 
 <!-- Replace with your names, roles and links to your live site and API -->
-- Team members:
-- Azure host (owns the resource group):
-- Live website:
-- API:
+- Team members: Charles Ritz, Steven Arentz, Vivian Dang, Seun, Jeffrey 
+- Azure host (owns the resource group): 
+- Live website: 
+- API: 
